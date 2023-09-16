@@ -1,0 +1,13 @@
+CREATE NEW PROJECT
+
+1.Console.NET(Search) -> select first -> Project Name(Demo1) -> Location (place it in the DEMO folder) -> Create.
+
+PROGRAM 
+
+static void Main(string[] args)
+{
+	Console.Writeline("Computer programming");
+}
+
+1.Menu bar -> Build
+2.Debug Menu -> start without debugging
